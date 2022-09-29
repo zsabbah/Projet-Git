@@ -2,7 +2,7 @@
 
 Ce TP conciste à effectuer en groupe le TP suivant : [TP git](https://gist.github.com/KeligMartin/d433c06818b4acdd5ea7187972d5237e "Page TP git")
 
-## Pré requis
+## Pré-requis
 
 - Avoir [Python](https://www.python.org/ "Page Python") d'installé sur votre machine
 - Avoir [Git](https://git-scm.com/ "Page git-smc") sur votre machine
